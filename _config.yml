@@ -9,8 +9,7 @@
 title: MÄRTAS VÄRLD
 email: cool@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-Välkommen till Märtas värld!
-Detta är en hemsida som jag själv har programmerat. Det är anledningen till
+Välkommen till Märtas värld! Detta är en hemsida som jag själv har programmerat. Det är anledningen till
 att den inte är så vacker. Men oroa er inte, jag jobbar på det. Hoppas att du
 som besöker hemsidan tycker att den är fin.
 baseurl: "" # the subpath of your site, e.g. /blog
